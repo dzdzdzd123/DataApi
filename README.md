@@ -16,7 +16,7 @@
 ![qq_qrcode](https://user-images.githubusercontent.com/124868171/217749038-a8bc48a7-304f-4eee-a4c8-288e0a00eb5c.png)
 
 ## telegram扫码
-![qq_qrcode](https://user-images.githubusercontent.com/124868171/217749059-68271d0e-47ea-48e9-bd9b-76e54b675d5d.png)
+![telegram_qrcode_](https://user-images.githubusercontent.com/124868171/217765139-93a37c37-424b-453a-8642-34d788a1761d.png)
 
 不提供任何代码方案以及算法协议，仅提供数据接口服务，如有侵权，请联系我们进行处理。
 
