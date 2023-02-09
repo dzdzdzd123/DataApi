@@ -1,2 +1,23 @@
 # DataApi
-致力于提供数据接口服务
+## 致力于提供数据接口服务
+
+### 我们提供以下平台数据采集服务：
+#### 抖音、淘宝、快手、饿了么、京东、小红书、拼多多、天猫、得物 等各类app的数据爬虫接口
+#### 如果没有你需要的数据接口，可联系我们进行定制
+#### 以下为我们的联系方式
+#### QQ：891363147
+#### 微信：dever1024
+#### telegram：sprogramer
+#### 邮箱：dataapi@qq.com
+## 微信扫码
+![wechat_qrcode](https://user-images.githubusercontent.com/124868171/217749002-071baa8e-11ea-4541-ba15-416729808710.png)
+
+## QQ扫码
+![qq_qrcode](https://user-images.githubusercontent.com/124868171/217749038-a8bc48a7-304f-4eee-a4c8-288e0a00eb5c.png)
+
+## telegram扫码
+![qq_qrcode](https://user-images.githubusercontent.com/124868171/217749059-68271d0e-47ea-48e9-bd9b-76e54b675d5d.png)
+
+不提供任何代码方案以及算法协议，仅提供数据接口服务，如有侵权，请联系我们进行处理。
+
+抖音爬虫 淘宝爬虫 快手爬虫 饿了么爬虫 京东爬虫 小红书爬虫 拼多多爬虫 天猫爬虫 得物爬虫 app爬虫 数据采集 抖音数据采集 淘宝数据采集 快手数据采集 饿了么数据采集 京东数据采集 小红书数据采集 拼多多数据采集 天猫数据采集 得物数据采集 app数据采集 douyin taobao kuaishou eleme jingdong xiaohongshu pingduodup tianmao dewu dy ks tb ele jd xhs pdd tm 数据api 采集api 爬虫api api服务 
